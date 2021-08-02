@@ -1,0 +1,34 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #91fff8;
+}
+.galery {
+  background-color: #152128;
+  background-image: url("../First Using bootstrap/Foto/Bottom.png");
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contact {
+  padding-top: 1rem;
+}
+
+section {
+  padding-top: 5rem;
+}
+h5 {
+  text-align: center;
+}
+.card-body {
+  text-align: justify;
+  text-justify: inter-word;
+}
+footer {
+  padding-top: 4rem;
+}
+
+.about {
+  background-image: url("../First using bootstrap/Foto/Background4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
